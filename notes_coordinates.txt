@@ -1,0 +1,12 @@
+
+
+Corners
+Top Left 71.75 38.75
+Bottom Left 71.75 33.5
+
+Bottom Right 79.375 33.5
+Top Right 79.375 38.75
+
+
+Download for ten years
+
